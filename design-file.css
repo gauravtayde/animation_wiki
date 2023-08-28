@@ -1,0 +1,54 @@
+body{
+	font-size:20px;
+text-align:justify;
+}
+h1,h2,h3{
+	color: teal;
+}
+
+
+.top-bar li{
+	display:inline;
+	background-color:teal;
+}
+.top-bar ul a:hover{
+	background-color: white;
+}	
+.top-bar ul li a:hover{
+	color:teal;
+}
+.top-bar li a:link,.top-bar li a:visited{
+	text-decoration:none;
+	color:white;
+}
+
+
+
+.tilted{
+	font-style:italic;
+}
+
+a:link,a:visited{
+	text-decoration:none;
+	color:green;
+}
+ ul a:link,ul a:visited{
+	text-decoration:none;
+	color:green;
+}
+
+
+nav a:visited,nav a:link{
+	color:teal;
+	text-decoration:none;
+}
+nav a:hover{
+	color:black;
+}
+figcaption{
+	font-size:15px;
+}
+	
+	
+	
+

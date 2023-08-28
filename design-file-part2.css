@@ -1,0 +1,135 @@
+body{
+	margin:10px auto;
+	margin-top: 0;
+	padding-top:0;
+	width:1024px;
+	font-size:20px;
+text-align:justify;
+}
+
+
+h1,h2,h3{
+	color: teal;
+}
+h1,h2{
+	margin-bottom:50px;
+}
+
+
+header{
+	margin:0;
+	padding-top:0;
+	background-image:url("images-of-site/header-donut.png");
+	height:200px;
+}
+header h1{
+	color: rgba(256,256,256,80%);
+	padding-left:30px;
+	padding-top:125px;
+	font-size:50px;
+}
+.top-bar ul{
+	position: fixed;
+	padding:0;
+	margin-top:0;
+}
+.top-bar li{
+	display:inline;
+	float:left;
+	
+}
+.top-bar ul li a:hover{
+	color:teal;
+	background-color:white;
+}
+.top-bar a:link,.top-bar a:visited{
+	background-color:teal;
+	color:white;
+	display:block;
+	width:128px;
+	text-align:center;
+	padding: 10px 0;
+}
+
+
+
+footer{
+	margin:o;
+	padding: 20px 0px;
+}
+.bottom-bar ul{
+	padding:0;
+	margin-bottom:20px;
+}
+.bottom-bar li{
+	display:inline;
+	float:left;
+}
+.bottom-bar ul li a:hover{
+	color:teal;
+	background-color:white;
+}
+.bottom-bar a:link,.bottom-bar a:visited{
+	background-color:gray;
+	color:white;
+	display:block;
+	width:146px;
+	text-align: center;
+	padding:10px 0px;
+}
+.captio{
+	font-size:16px;
+	color:gray;
+	text-align:right;
+}
+.contact-details ul{
+list-style-type:none;	
+}
+.contact-details li{
+	margin:10px;
+}
+
+
+
+
+aside{
+	background-color:lightblue;
+	float:left;
+	width: 200px;
+}
+.side-images{
+	margin-right:30px;
+}
+
+
+
+.tilted{
+	font-style:italic;
+}
+
+a:link,a:visited{
+	text-decoration:none;
+	color:green;
+}
+ ul a:link,ul a:visited{
+	text-decoration:none;
+	color:green;
+}
+
+
+
+
+nav a:visited,nav a:link{
+	color:teal;
+	text-decoration:none;
+}
+nav a:hover{
+	color:black;
+}
+figcaption{
+	font-size:15px;
+}
+	
+	
+	
+
